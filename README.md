@@ -49,7 +49,7 @@
 - [Google Style Guides](https://google.github.io/styleguide/)
 
 
-### 顶层逻辑
+### 抽离、裁剪顶层逻辑
 
 > 系统架构
 
