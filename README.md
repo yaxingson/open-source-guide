@@ -135,6 +135,17 @@ _自顶向下_ vs. 自底向上
 
 > OKR(Objectives and Key Results)
 
+## 贡献
+
+```sh
+git remote set-url [--push] origin <url>
+
+git pull [--rebase]
+
+
+```
+
+
 ## 盈利模式
 
 ### 广告
